@@ -1,6 +1,8 @@
 - 👋 Hello, I’m @yeraldiloera, my pronouns are She/Her/Ella
-- 👀 I’m interested in evolutionary genomic responses to contaminants
-- 🌱 I’m currently studying signatures of selection in crocodilians exposed to pesticides
+- I’m interested in evolutionary genomic responses to contaminants
+- I’m currently a Ph.D. candidate in the Department of Ecology and Evolutionary Biology at Princeton University
+- My interests are at the intersection of evolution, ecotoxicology, and genomics (EvoEcoToxicOmics)
+- I study signatures of selection in crocodilians exposed to pesticides
 - 📫 Reach me at: yeraldiloera@gmail.com
 
 <!---
